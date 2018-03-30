@@ -1,7 +1,11 @@
 ---
-layout: wide
+layout: single
 permalink: /people
 title: ""
+classes: wide
+toc: true
+toc_label: "People"
+toc_icon: "cog"
 ---
 
 # People

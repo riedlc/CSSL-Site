@@ -5,11 +5,12 @@ title: ""
 ---
 
 # People
-
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58bf991c33a88a2f69b0bc6c_chris-p-500x500.jpeg" width="250" class="author__avatar">
+<div class="author__avatar">
+<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58bf991c33a88a2f69b0bc6c_chris-p-500x500.jpeg" width="250">
 
 ### Christoph Riedl
 Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms.
+</div>
 
 ## Post-docs and Students
 

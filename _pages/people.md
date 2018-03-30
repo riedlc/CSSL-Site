@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /people
 author_profile: true
 title: ""
@@ -11,3 +11,4 @@ authors:
 ---
 
 
+HELLO

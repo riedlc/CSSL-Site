@@ -9,17 +9,12 @@ header:
 ---
 
 <div class="wrap page-lead-content">
- <h1>Collaborative Social Systems Lab</h1>
-        <h2>About Our Lab</h2>
-      <p>The Collaborative Social Systems Lab, directed by Christoph Riedl, explores collaboration in distributed environments: how can individuals solve challenging global tasks in social networks from only local, distributed interactions? We use agent-based modeling, conduct lab and field experiments, and analyze large datasets to study how networked interactions influences human behavior, strategies, and success.</p>
+    <h2>About Our Lab</h2>
+      <p>
+      > The Collaborative Social Systems Lab, directed by Christoph Riedl, explores collaboration in distributed environments: how can individuals solve challenging global tasks in social networks from only local, distributed interactions? We use agent-based modeling, conduct lab and field experiments, and analyze large datasets to study how networked interactions influences human behavior, strategies, and success.
+      </p>
 	  </div>
 
-<div id="main" role="main">
-        <div class="wrap">
-          <div class="page-title">
-            <h1></h1>
-            
-          </div>
 
 <div class="archive-wrap">
             <div class="page-content">
@@ -32,7 +27,10 @@ header:
 
 <div class="tile">
   <h2 class="post-title">Affiliations</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <p class="post-excerpt">
+  * Network Science Institute
+  * Northeastern University
+  * Harvard Institute for Quantitative Social Science</p>
 </div><!-- /.tile -->
 
 <div class="tile">

@@ -3,6 +3,10 @@ layout: single
 author_profile: true
 permalink: /
 title: ""
+excerpt: "We study humans"
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: rgba(255, 0, 0, 0.5)
 ---
 
 <div class="wrap page-lead-content">

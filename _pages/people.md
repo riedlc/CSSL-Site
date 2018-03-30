@@ -6,4 +6,5 @@ classes: wide
 authors:
     - author0
     - author1
+    - author2
 ---

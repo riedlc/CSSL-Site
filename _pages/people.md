@@ -5,9 +5,8 @@ title: ""
 classes: wide
 toc: true
 toc_label: "People"
-toc_icon: "cog"
 ---
-
+<div class="page__inner-wrap">
 # People
 
 <img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58bf991c33a88a2f69b0bc6c_chris-p-500x500.jpeg" width="250">
@@ -98,3 +97,4 @@ Christina is an undergraduate student in the College of Arts, Media, and Design 
 #### undergraduate student
 
 Tina is an undergraduate student at the College of Computer and Information Science majoring in computer science. Her research interests are in human-computer interaction and artificial intelligence.
+</div>

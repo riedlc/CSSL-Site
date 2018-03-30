@@ -3,6 +3,9 @@ layout: single
 permalink: /people
 title: ""
 classes: wide
+authors:
+    - author0
+    - author1
 ---
 {% assign authorCount = page.authors | size %}
 {% if authorCount == 0 %}

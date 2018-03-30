@@ -2,25 +2,36 @@ author0:
     name             : "Christoph Riedl"
     avatar           : "/assets/images/chris.jpg"
     bio              : "Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms."
-    location         : "Boston, MA"
     email            :
     uri              :
-    home             : # null (default), "absolute or relative url to link to author home"
+    home             : "https://christophriedl.net/"
     github           :
     gitlab           :
     google_plus      :
     twitter          :
 
 author1:
-    name             : "John Cena"
-    avatar           : "/assets/images/chris.jpg"
-    bio              : "Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms."
-    location         : "Boston, MA"
+    name             : "Stefano Balietti"
+    avatar           : "https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429057d_stefano_mini%20(2).jpg"
+    bio              : "Stefano Balietti is a Postdoctoral Researcher at the Network Science Institute, and a Fellow at the Harvard Institute for Quantitative Social Sciences (IQSS). His research interests involve: incentives schemes for peer review systems, consensus formation and social influence -- in particular in epistemic communities, equality and efficiency in public-goods games, efficiency in coordination games, philosophy of science -- in particular Paul Feyerabend's body of work. His methodology aims at bringing together agent-based computer simulations and behavioral experiments. He is also an active developer, and he created a JavaScript platform for conducting real-time online behavioral experiments directly in the browser called  [nodeGame](http://www.nodegame.org/)."
     email            :
     uri              :
-    home             : # null (default), "absolute or relative url to link to author home"
+    home             : "http://stefanobalietti.com/"
     github           :
     gitlab           :
     google_plus      :
     twitter          :
+
+author1:
+    name             : "Sam Fraiberger"
+    avatar           : "https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290517_sam_picture%20(1).jpg"
+    bio              : "Sam Fraiberger is a currently a Postdoctoral Research Associate at the Network Science Institute, a Fellow at the Harvard Institute for Quantitative Social Sciences (IQSS) and a Visiting Scholar at the Department of Information, Operations & Management Sciences (IOMS) at the NYU Stern School of Business. He received his BS in Applied Mathematics from Ecole Centrale Paris, his SM in Applied Mathematics from Harvard University and his PhD in Economics from New York University. His research program is at the interface of Behavioral Economics, Data Science and Computational Social Sciences, and focuses on using large datasets and experimental methods to answer questions of economic and social significance. His research has been featured in the Washington Post, Fast Company and Mashable."
+    email            :
+    uri              :
+    home             : "http://samuelfraiberger.com/"
+    github           :
+    gitlab           :
+    google_plus      :
+    twitter          :
+    linkedin:        : "samuelfraiberger"
 

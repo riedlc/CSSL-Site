@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 permalink: /
 title: ""
-excerpt: "We study humans"
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(255, 0, 0, 0.5)
@@ -11,7 +10,7 @@ header:
 
 <div class="wrap page-lead-content">
  <h1>Collaborative Social Systems Lab</h1>
-        <h2>At Northeastern's Network Science Institute.</h2>
+        <h2>About Our Lab</h2>
       <p>The Collaborative Social Systems Lab, directed by Christoph Riedl, explores collaboration in distributed environments: how can individuals solve challenging global tasks in social networks from only local, distributed interactions? We use agent-based modeling, conduct lab and field experiments, and analyze large datasets to study how networked interactions influences human behavior, strategies, and success.</p>
 	  </div>
 

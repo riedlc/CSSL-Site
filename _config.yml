@@ -109,20 +109,6 @@ author:
   google_plus      :
   twitter          :
 
-authors:
-  author1:
-    name             : "Christoph Riedl"
-    avatar           : "/assets/images/chris.jpg"
-    bio              : "Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms."
-    location         : "Boston, MA"
-    email            :
-    uri              :
-    home             : # null (default), "absolute or relative url to link to author home"
-    github           :
-    gitlab           :
-    google_plus      :
-    twitter          :
-
 
 # Reading Files
 include:

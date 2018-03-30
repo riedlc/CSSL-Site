@@ -97,6 +97,7 @@ analytics:
 
 # Site Author
 author:
+  authorid         : chris
   name             : "Christoph Riedl"
   avatar           : "/assets/images/chris.jpg"
   bio              : "Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms."

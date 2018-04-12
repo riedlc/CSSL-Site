@@ -5,46 +5,24 @@ permalink: /
 title: ""
 header:
   overlay_image: /assets/images/header.jpg
-  overlay_filter: rgba(255, 0, 0, 0.5)
+  overlay_filter: rgba(0, 0, 50, 0)
 ---
 
-<div class="wrap page-lead-content">
-    <h2>About Our Lab</h2>
-      <p>
-      The Collaborative Social Systems Lab, directed by Christoph Riedl, explores collaboration in distributed environments: how can individuals solve challenging global tasks in social networks from only local, distributed interactions? We use agent-based modeling, conduct lab and field experiments, and analyze large datasets to study how networked interactions influences human behavior, strategies, and success.
-      </p>
-	  </div>
+## About Us
+
+The Collaborative Social Systems Lab, directed by Christoph Riedl, explores collaboration in distributed environments: how can individuals solve challenging global tasks in social networks from only local, distributed interactions? We use agent-based modeling, conduct lab and field experiments, and analyze large datasets to study how networked interactions influences human behavior, strategies, and success.
 
 
-<div class="archive-wrap">
-            <div class="page-content">
-              <div class="tiles">
+## Latest Publications
 
-<div class="tile">
-  <h2 class="post-title">Our Research</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">Affiliations</h2>
-  <p class="post-excerpt">
-  <ul><li>
-  Network Science Institute
-  </li><li>
-  Northeastern University
-  </li><li>
-  Harvard Institute for Quantitative Social Science
-  </li></ul></p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <h2 class="post-title">News</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+### Conflict and Convention in Dynamic Networks
+<div class="clearfix"><img src="assets/images/conflict.png" width="400" height="400" class="align-right">
+Journal of the Royal Society Interface, 15(140), 20170835, 2018
 </div>
+<br />
 
+###   Product diffusion through on-demand information-seeking behaviour
+<div class="clearfix">
+<img src="assets/images/publication2.png" width="400" height="400" class="align-right">
+Journal of the Royal Society Interface, 15(139), 20170751, 2018
 </div>
-
-
-
-![Image](https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742904a6_logo-collaborative-social-systems-lab_small.png)
-

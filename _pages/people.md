@@ -1,95 +1,127 @@
 ---
-layout: single
+layout: splash
 permalink: /people
 title: ""
-class: wide
 ---
 
 # People
+<br>
+### Christoph Riedl, Lab Director
 <div class="author__avatar">
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58bf991c33a88a2f69b0bc6c_chris-p-500x500.jpeg" width="250">
+<figure class="align-left">
+<img src="assets/images/riedl.jpg" class="align-left" width="250">
+</figure>
+<a href="https://christophriedl.net/">
+ <i class="fas fa-home" style="margin-right: 30px;"></i>
+</a>
+<a href="https://github.com/riedlc/">
+ <i class="fab fa-github" style="margin-right: 30px;"></i>
+</a>
+<a href="https://twitter.com/criedl">
+ <i class="fab fa-twitter" style="margin-right: 30px;"></i>
+</a>
+<a href="mailto:c.riedl@neu.edu">
+ <i class="fa fa-envelope" style="margin-right: 30px;"></i>
+</a>
+<p>Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms.
+</p>
 </div>
-### Christoph Riedl
-#### Lab Director
-Chris is Assistant Professor for Information Systems at the D’Amore McKim School of Business. He employs business analytics and data science to investigate research questions about group-decision making, network science, and social media, and develops novel computational approaches to study collective intelligence mechanisms.
 
-
+<br>
+<br>
 ## Post-docs and Students
-
+### Stefano Balietti, Postdoctoral Research Associate
 <div class="author__avatar">
+<figure class="align-left">
 <img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429057d_stefano_mini%20(2).jpg" width="250"> 
-</div>
-### Stefano Balietti
-#### postdoctoral research associate
+</figure>
+<a href="http://stefanobalietti.com/">
+ <i class="fas fa-home" style="margin-right: 30px;"></i>
+</a>
+<a href="https://twitter.com/balietti">
+ <i class="fab fa-twitter" style="margin-right: 30px;"></i>
+</a>
+<a href="https://github.com/shakty">
+ <i class="fab fa-github" style="margin-right: 30px;"></i>
+</a>
+<p>Stefano Balietti is a Postdoctoral Researcher at the Network Science Institute, and a Fellow at the Harvard Institute for Quantitative Social Sciences (IQSS). His research interests involve: incentives schemes for peer review systems, consensus formation and social influence -- in particular in epistemic communities, equality and efficiency in public-goods games, efficiency in coordination games, philosophy of science -- in particular Paul Feyerabend's body of work. His methodology aims at bringing together agent-based computer simulations and behavioral experiments. He is also an active developer, and he created a JavaScript platform for conducting real-time online behavioral experiments directly in the browser called <a href="http://www.nodegame.org/">nodeGame</a>.
+</p></div>
+<br>
 
-[****stefanobalietti.com](http://stefanobalietti.com/)
+### Michael Foley, Third Year PhD Student
+<div class="author__avatar">
+<figure class="align-left">
+<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290490_mike.jpg" width="250">
+</figure>
+<a href="mailto:mikefoley37@gmail.com">
+ <i class="fa fa-envelope" style="margin-right: 30px;"></i>
+</a>
+<p>Michael's broad research interests lie in the overlap between complex systems and the social sciences. In particular, he is interested in how rational local decisions and interactions can produce unintended and emergent system behavior. Michael has a B.S. and M.S. in Mathematics from the University of Vermont, where he did research in computational finance and agent based modeling. Currently, he is working with Chris Riedl to research the effect of different communication networks on a group's ability to solve problems.
+</p></div>
+<br>
 
-Stefano Balietti is a Postdoctoral Researcher at the Network Science Institute, and a Fellow at the Harvard Institute for Quantitative Social Sciences (IQSS). His research interests involve: incentives schemes for peer review systems, consensus formation and social influence -- in particular in epistemic communities, equality and efficiency in public-goods games, efficiency in coordination games, philosophy of science -- in particular Paul Feyerabend's body of work. His methodology aims at bringing together agent-based computer simulations and behavioral experiments. He is also an active developer, and he created a JavaScript platform for conducting real-time online behavioral experiments directly in the browser called  [nodeGame](http://www.nodegame.org/).
-
+### Brennan Klein, Second Year PhD Student
 
 <div class="author__avatar">
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290517_sam_picture%20(1).jpg" width="250">
-</div>
-### Sam Fraiberger
-#### postdoctoral research associate
-
-[****samuelfraiberger.com](http://samuelfraiberger.com/)
-
-[****LinkedIn](mailto:https://www.linkedin.com/in/samuelfraiberger)
-
-Sam Fraiberger is a currently a Postdoctoral Research Associate at the Network Science Institute, a Fellow at the Harvard Institute for Quantitative Social Sciences (IQSS) and a Visiting Scholar at the Department of Information, Operations & Management Sciences (IOMS) at the NYU Stern School of Business. He received his BS in Applied Mathematics from Ecole Centrale Paris, his SM in Applied Mathematics from Harvard University and his PhD in Economics from New York University. His research program is at the interface of Behavioral Economics, Data Science and Computational Social Sciences, and focuses on using large datasets and experimental methods to answer questions of economic and social significance. His research has been featured in the Washington Post, Fast Company and Mashable.
-
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290490_mike.jpg" width="250">
-
-### Michael Foley
-
-#### third year phd student
-
-[****Michael](mailto:tina@eliassi.org)
-
-Michael's broad research interests lie in the overlap between complex systems and the social sciences. In particular, he is interested in how rational local decisions and interactions can produce unintended and emergent system behavior. Michael has a B.S. and M.S. in Mathematics from the University of Vermont, where he did research in computational finance and agent based modeling. Currently, he is working with Chris Riedl to research the effect of different communication networks on a group's ability to solve problems.
-
+<figure class="align-left">
 <img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742903e4_brennan2016_original.jpeg" width="250">
+</figure>
 
-### Brennan Klein
+<a href="mailto:klein.br@husky.neu.edu">
+ <i class="fa fa-envelope" style="margin-right: 30px;"></i>
+</a>
+<a href="https://twitter.com/jkbren">
+ <i class="fab fa-twitter" style="margin-right: 30px;"></i>
+</a>
 
-#### second year phd student
+<p>Brennan studies surprise in complex systems. He received his BA in Cognitive Science and Psychology from Swarthmore College in 2014, studying the relationship between perception, action, and cognition. Now, he is focused on understanding how complex systems are able to represent, predict, and intervene on their surroundings across a number of different scales—all in ways that minimize the surprisal experienced in the future. This approach is used to study a range of phenomena, from human decision making, to optimal experimental design, to causal emergence in networks. 
+</p></div>
+<br>
 
-[****Brennan](mailto:klein.br@husky.neu.edu)
+### Ewen (Yuxuan) Wang, Undergraduate Research Assistant
+<div class="author__avatar">
+<figure class="align-left">
+<img src="assets/images/wang.jpg" width="250">
+</figure>
+<a href="mailto:wang.yuxu@northeastern.edu">
+ <i class="fa fa-envelope" style="margin-right: 30px;"></i>
+</a>
+<a href="https://www.linkedin.com/in/yuxuan-wang-021959100/">
+ <i class="fab fa-linkedin-in" style="margin-right: 30px;"></i>
+</a>
+<a href="https://github.com/ewenw/">
+ <i class="fab fa-github" style="margin-right: 30px;"></i>
+</a>
+<p>Ewen is a first-year computer science student at Northeastern University's College of Computer and Information Sciences. Creating computer and mobile games since middle school, he found a strong passion for CS and has published well-received apps on the Play Store. Previously, he interned at Harvard Medical School’s Medical Imaging Lab, where he developed software to format patient data for machine learning. He currently researches optimal experimental design through agent-based simulations and is an active developer of the nodeGame experimentation framework.
+</p></div>
+<br>
+<br>
 
-[****@jkbren](https://twitter.com/jkbren)
 
-Brennan received his BA in Cognitive Science and Psychology from Swarthmore College in 2014. While attending Swarthmore, Brennan’s research revolved primarily around perception and cognition. He has presented at Vision Science Society’s Annual Conference (2012, 2013, 2014) is a co-author on several cognitive science papers. Before starting his PhD, Brennan spent a year in Silicon Valley trying to start a startup while working as a social network data analyst (June 2014 - May 2015).
-
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429039f_Photo-Praveen.png" width="250">
+## Lab Alumni
+<br>
+### Sam Fraiberger
+<div class="author__avatar">
+<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290517_sam_picture%20(1).jpg" width="200">
+</div>
 
 ### Praveen Ningappa
-
-#### masters student
-
-Praveen received his undergraduate degree from India in the field of Electronics & Communication. Currently he is pursuing a  
-master’s degree at Northeastern University in Information Systems. His area of specialization is Front End Design and Development. Praveen's research interest is in developing an User Interface which provides a better user experience even for visually challenged users.
-
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429055d_jake.jpeg" width="250">
+<div class="author__avatar">
+<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429039f_Photo-Praveen.png" width="200">
+</div>
 
 ### Jake Moody
-
-#### undergraduate student
-
-Jake is an undergraduate student at the D'Amore-McKim School of Business concentrating in Finance and Entrepreneurship. His research interests are in business analytics and digital marketing.
-
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742904d7_website-christina-sirabella.jpg" width="250">
+<div class="author__avatar">
+<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429055d_jake.jpeg" width="200">
+</div>
 
 ### Christina Sirabella
-
-#### undergraduate student
-
-Christina is an undergraduate student in the College of Arts, Media, and Design studying Communications with minors in Women's Studies and Sociology. She is interested in exploring the social and cultural impact of digital networks and technologies.
-
-<img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742903a3_website-tina-lee.jpg" width="250">
+<div class="author__avatar">
+<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742904d7_website-christina-sirabella.jpg" width="200">
+</div>
 
 ### Tina Lee
+<div class="author__avatar">
+<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742903a3_website-tina-lee.jpg" width="200">
+</div>
 
-#### undergraduate student
-
-Tina is an undergraduate student at the College of Computer and Information Science majoring in computer science. Her research interests are in human-computer interaction and artificial intelligence.

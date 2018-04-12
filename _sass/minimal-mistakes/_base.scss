@@ -10,7 +10,7 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
+  padding: 104px 0 0;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
@@ -22,8 +22,12 @@ body {
 }
 
 h1,
-h2,
-h3,
+h2 {
+  font-weight: normal;
+}
+h3 {
+  font-weight: normal;
+}
 h4,
 h5,
 h6 {
@@ -35,15 +39,15 @@ h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $type-size-2;
 }
 
 h2 {
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
 h3 {
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 h4 {
@@ -64,7 +68,7 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1em;
 }
 
 u,
@@ -93,6 +97,10 @@ table,
 fieldset {
   orphans: 3;
   widows: 3;
+}
+
+.clearfix {
+    overflow: auto;
 }
 
 /* abbreviations */

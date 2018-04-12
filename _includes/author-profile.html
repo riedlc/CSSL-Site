@@ -44,14 +44,14 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+           <span itemprop="name">{{ author.location }}</span>
         </li>
       {% endif %}
 
       {% if author.uri %}
         <li>
           <a href="{{ author.uri }}" itemprop="url">
-            <i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
+            {{ site.data.ui-text[site.locale].website_label | default: "Website" }} <i class="fas fa-fw fa-link" aria-hidden="true"></i> 
           </a>
         </li>
       {% endif %}
@@ -60,7 +60,7 @@
         <li>
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+             {{ site.data.ui-text[site.locale].email_label | default: "Email" }} <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
           </a>
         </li>
       {% endif %}
@@ -73,10 +73,18 @@
         </li>
       {% endif %}
 
+      {% if author.cv %}
+        <li>
+          <a href="{{ author.cv }}">
+           CV
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.twitter %}
         <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          <a href="{{ author.twitter }}" itemprop="sameAs">
+             Twitter <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i>
           </a>
         </li>
       {% endif %}
@@ -91,8 +99,8 @@
 
       {% if author.google_plus %}
         <li>
-          <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
+          <a href="{{ author.google_plus }}" itemprop="sameAs">
+           Google Scholar
           </a>
         </li>
       {% endif %}
@@ -140,7 +148,7 @@
       {% if author.github %}
         <li>
           <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+            GitHub <i class="fab fa-fw fa-github" aria-hidden="true"></i>
           </a>
         </li>
       {% endif %}

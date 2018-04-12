@@ -7,10 +7,11 @@ title: ""
 # People
 <br>
 ### Christoph Riedl, Lab Director
-<div class="author__avatar">
+<div class="author__avatar clearfix">
 <figure class="align-left">
 <img src="assets/images/riedl.jpg" class="align-left" width="250">
 </figure>
+<br />
 <a href="https://christophriedl.net/">
  <i class="fas fa-home" style="margin-right: 30px;"></i>
 </a>
@@ -35,6 +36,7 @@ title: ""
 <figure class="align-left">
 <img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429057d_stefano_mini%20(2).jpg" width="250"> 
 </figure>
+<br />
 <a href="http://stefanobalietti.com/">
  <i class="fas fa-home" style="margin-right: 30px;"></i>
 </a>
@@ -53,6 +55,7 @@ title: ""
 <figure class="align-left">
 <img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290490_mike.jpg" width="250">
 </figure>
+<br />
 <a href="mailto:mikefoley37@gmail.com">
  <i class="fa fa-envelope" style="margin-right: 30px;"></i>
 </a>
@@ -66,7 +69,7 @@ title: ""
 <figure class="align-left">
 <img src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742903e4_brennan2016_original.jpeg" width="250">
 </figure>
-
+<br />
 <a href="mailto:klein.br@husky.neu.edu">
  <i class="fa fa-envelope" style="margin-right: 30px;"></i>
 </a>
@@ -83,6 +86,7 @@ title: ""
 <figure class="align-left">
 <img src="assets/images/wang.jpg" width="250">
 </figure>
+<br />
 <a href="mailto:wang.yuxu@northeastern.edu">
  <i class="fa fa-envelope" style="margin-right: 30px;"></i>
 </a>

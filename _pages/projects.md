@@ -6,18 +6,58 @@ classes: wide
 ---
 # Projects
 
+## Social Influence and Information Diffusion in Networks
+<div class="clearfix">
+<img class="align-right" src="assets/images/diffusion_networks.png" width="300">
+In most areas of human activity, from science
+to business, we expect performance to
+uniquely determine access to resources and
+reward. Yet, in areas where performance is
+difficult to quantify or depends on tastes and
+preferences, reputation and invisible networks
+of influence play an important role. This can
+lead to severe inequalities such that certain
+individuals or products are more successful than others. We are conducting a series of studies to examine how social influence and
+information diffusion shape outcomes on the global scale. In one study in this stream, we explore
+how social networks play a crucial role in dissemination and adoption of innovations using data
+from two country-level field experiments. We discover a novel mechanism for the diffusion of
+innovations which results in linear adoption curves. This is contrary to the typical S-shaped
+curves promoted in the diffusion of innovation literature. As a result, we propose a new model
+for the diffusion of innovation through on-demand information-seeking behavior. In another
+study in this research program we investigates these dynamic processes on networks more
+formally through agent-based modeling. Using an evolutionary game theoretical model with
+dynamic network updating, we examine how cooperation emerges and persists. We show, for
+example, that outcomes associated with host-guest norms (play aggressive away, not at home),
+rather than ownership norms (play aggressive at home, not away), tend to evolve on dynamic
+networks. This result challenges the commonly held view in the literature on which conventions
+emerge to resolve conflicts. Furthermore, it adds generality to research showing that learning in
+social networks has profound effects on the resulting dynamics which often favor cooperation,
+and I propose a new model of network formation.
 
-## Social network processes in collaborative decision-making
+Funding: National Science Foundation, Army Research Office, Office of Naval Research
+Publications:
+“Conflict and Convention in Dynamic Networks” (J. Royal Society Interface)
+“Product Diffusion Through On-Demand Information-Seeking Behavior” (J. Royal Society
+Interface)
+</div>
+
+## Social Network Processes in Collaborative Decision-Making
 <div class="clearfix">
 <img class="align-right" src="assets/images/social.jpg" width="300">
 Teams and collaborations are increasingly important as a means of harnessing diverse and complementary skills. This project studies how team can be organized efficiently and how emergent properties and processes within a team affect team performance. This project makes important contributions to our fundamental understanding of collaborative decision­-making and the organization of work in general. 
+
+Funding: DARPA, Tier 1
+Publications: "From Crowds to Collaborators" (Academy of Management Discoveries)
 </div>
 
 
-## Understanding online creative collaboration over multidimensional networks
+## Understanding Online Creative Collaboration Over Multidimensional Networks
 <div class="clearfix">
 <img class="align-right" src="assets/images/collab.png" width="300">
 The massive amounts of available digital trace data enable studies of population-level human interaction on an unprecedented scale. This project offers groundbreaking insights into how multidimensional network configurations shape the success of value-creation processes within crowdsourcing systems and online communities. Furthermore, this project offers new computational social science approaches to theorizing and researching the roles of social structure and influence within technology-mediated value creation processes.
+
+Funding: Nation Science Foundation
+Publications: "Learning from Mixed Signals in Online Innovation Communities" (Organization Science)
 </div>
 
 
@@ -31,5 +71,5 @@ This work is focused on understanding problem solving behavior as a search proce
 ## Optimizing Experimental Design
 <div class="clearfix">
 <img class="align-right" src="assets/images/optimal.png" width="300">
-In this work, we ask a number of questions about how to optimally design experiments—in particular, rapidly-deployed experiments run on online experimentation platforms like VolunteerScience (Radford, Pilny, Reichelman, Keegan, Hoye, & Lazer, 2016) and nodeGame (Balietti, 2016). For one project, we’ve designed an optimal experimental design protocol that can rapidly search a vast space of possible experiments to find the design that will maximize the /information gained/ from running the experiment. We use a similar approach in another project studying social networks and decision-making, where we optimize for the particular /network structure/ that would produce the greatest effect size in our experiment.
+In this work, we ask a number of questions about how to optimally design experiments—in particular, rapidly-deployed experiments run on online experimentation platforms like <a href="https://volunteerscience.com/">VolunteerScience</a> and <a href="http://nodegame.org">nodeGame</a>. For one project, we’ve designed an optimal experimental design protocol that can rapidly search a vast space of possible experiments to find the design that will maximize the information gained from running the experiment. We use a similar approach in another project studying social networks and decision-making, where we optimize for the particular network structure that would produce the greatest effect size in our experiment.
 </div>

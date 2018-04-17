@@ -1,10 +1,10 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div itemscope itemtype="http://schema.org/Person">
+<span itemscope itemtype="http://schema.org/Person">
 
   {% if author.avatar %}
-    <div class="author__avatar">
+    <span class="author__avatar">
       {% if author.avatar contains "://" %}
         {% assign author_src = author.avatar %}
       {% else %}
@@ -23,36 +23,29 @@
       {% else %}
         <img src="{{ author_src }}" alt="{{ author.name }}" itemprop="image">
       {% endif %}
-    </div>
+    </span>
   {% endif %}
 
-  <div class="author__content">
+  <span class="author__content" style="font-size:21px;">
     {% if author.home %}
       <a href="{{ author_link }}"><h3 class="author__name" itemprop="name">{{ author.name }}</h3></a>
     {% else %}
       <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
     {% endif %}
     {% if author.bio %}
-      <p class="author__bio" itemprop="description">
+      <p class="author__bio" itemprop="description" style="font-size:18px;">
         {{ author.bio }}
+        <br />
+        {{ author.location }}
       </p>
     {% endif %}
-  </div>
+  </span>
 
-  <div class="author__urls-wrapper">
+  <span class="author__urls-wrapper" style="font-size:20px;">
     <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-           <span itemprop="name">{{ author.location }}</span>
-        </li>
-      {% endif %}
-
-      {% if author.uri %}
-        <li>
-          <a href="{{ author.uri }}" itemprop="url">
-            {{ site.data.ui-text[site.locale].website_label | default: "Website" }} <i class="fas fa-fw fa-link" aria-hidden="true"></i> 
-          </a>
         </li>
       {% endif %}
 
@@ -60,7 +53,7 @@
         <li>
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
-             {{ site.data.ui-text[site.locale].email_label | default: "Email" }} <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
+             {{ author.email }}
           </a>
         </li>
       {% endif %}
@@ -80,11 +73,17 @@
           </a>
         </li>
       {% endif %}
-
+      {% if author.github %}
+        <li>
+          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub 
+          </a>
+        </li>
+      {% endif %}
       {% if author.twitter %}
         <li>
           <a href="{{ author.twitter }}" itemprop="sameAs">
-             Twitter <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i>
+             <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
       {% endif %}
@@ -145,13 +144,7 @@
         </li>
       {% endif %}
 
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
-            GitHub <i class="fab fa-fw fa-github" aria-hidden="true"></i>
-          </a>
-        </li>
-      {% endif %}
+      
 
       {% if author.gitlab %}
         <li>
@@ -267,5 +260,5 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
-  </div>
-</div>
+  </span>
+</span>

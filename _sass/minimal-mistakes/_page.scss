@@ -65,6 +65,9 @@
   font-family: $global-font-family;
   font-size: $type-size-4;
 }
+a {
+  text-decoration:none;
+}
 
 .page__content {
   h2 {
@@ -75,7 +78,7 @@
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.83em;
   }
 
   /* paragraph indents */

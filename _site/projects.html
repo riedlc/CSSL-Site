@@ -82,12 +82,6 @@
           
         </ul>
         
-        <button class="search__toggle" type="button">
-          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
-            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
-          </svg>
-        </button>
-        
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle Menu</span>
           <div class="navicon"></div>
@@ -111,16 +105,57 @@
     <section class="page__content" itemprop="text">
       <h1 id="projects">Projects</h1>
 
-<h2 id="social-network-processes-in-collaborative-decision-making">Social network processes in collaborative decision-making</h2>
+<h2 id="social-influence-and-information-diffusion-in-networks">Social Influence and Information Diffusion in Networks</h2>
+<div class="clearfix">
+<img class="align-right" src="assets/images/diffusion_networks.png" width="300" />
+In most areas of human activity, from science
+to business, we expect performance to
+uniquely determine access to resources and
+reward. Yet, in areas where performance is
+difficult to quantify or depends on tastes and
+preferences, reputation and invisible networks
+of influence play an important role. This can
+lead to severe inequalities such that certain
+individuals or products are more successful than others. We are conducting a series of studies to examine how social influence and
+information diffusion shape outcomes on the global scale. In one study in this stream, we explore
+how social networks play a crucial role in dissemination and adoption of innovations using data
+from two country-level field experiments. We discover a novel mechanism for the diffusion of
+innovations which results in linear adoption curves. This is contrary to the typical S-shaped
+curves promoted in the diffusion of innovation literature. As a result, we propose a new model
+for the diffusion of innovation through on-demand information-seeking behavior. In another
+study in this research program we investigates these dynamic processes on networks more
+formally through agent-based modeling. Using an evolutionary game theoretical model with
+dynamic network updating, we examine how cooperation emerges and persists. We show, for
+example, that outcomes associated with host-guest norms (play aggressive away, not at home),
+rather than ownership norms (play aggressive at home, not away), tend to evolve on dynamic
+networks. This result challenges the commonly held view in the literature on which conventions
+emerge to resolve conflicts. Furthermore, it adds generality to research showing that learning in
+social networks has profound effects on the resulting dynamics which often favor cooperation,
+and I propose a new model of network formation.
+
+Funding: National Science Foundation, Army Research Office, Office of Naval Research
+Publications:
+“Conflict and Convention in Dynamic Networks” (J. Royal Society Interface)
+“Product Diffusion Through On-Demand Information-Seeking Behavior” (J. Royal Society
+Interface)
+</div>
+
+<h2 id="social-network-processes-in-collaborative-decision-making">Social Network Processes in Collaborative Decision-Making</h2>
 <div class="clearfix">
 <img class="align-right" src="assets/images/social.jpg" width="300" />
 Teams and collaborations are increasingly important as a means of harnessing diverse and complementary skills. This project studies how team can be organized efficiently and how emergent properties and processes within a team affect team performance. This project makes important contributions to our fundamental understanding of collaborative decision­-making and the organization of work in general. 
+
+Funding: DARPA, Tier 1
+Publications: "From Crowds to Collaborators" (Academy of Management Discoveries)
 </div>
 
-<h2 id="understanding-online-creative-collaboration-over-multidimensional-networks">Understanding online creative collaboration over multidimensional networks</h2>
+<h2 id="understanding-online-creative-collaboration-over-multidimensional-networks">Understanding Online Creative Collaboration Over Multidimensional Networks</h2>
 <div class="clearfix">
 <img class="align-right" src="assets/images/collab.png" width="300" />
 The massive amounts of available digital trace data enable studies of population-level human interaction on an unprecedented scale. This project offers groundbreaking insights into how multidimensional network configurations shape the success of value-creation processes within crowdsourcing systems and online communities. Furthermore, this project offers new computational social science approaches to theorizing and researching the roles of social structure and influence within technology-mediated value creation processes.
+
+Funding: Nation Science Foundation
+Publications: "Learning from Mixed Signals in Online Innovation Communities" (Organization Science)
 </div>
 
 <h2 id="human-search-processes-in-complex-problem-solving">Human Search Processes in Complex Problem Solving</h2>
@@ -132,7 +167,7 @@ This work is focused on understanding problem solving behavior as a search proce
 <h2 id="optimizing-experimental-design">Optimizing Experimental Design</h2>
 <div class="clearfix">
 <img class="align-right" src="assets/images/optimal.png" width="300" />
-In this work, we ask a number of questions about how to optimally design experiments—in particular, rapidly-deployed experiments run on online experimentation platforms like VolunteerScience (Radford, Pilny, Reichelman, Keegan, Hoye, &amp; Lazer, 2016) and nodeGame (Balietti, 2016). For one project, we’ve designed an optimal experimental design protocol that can rapidly search a vast space of possible experiments to find the design that will maximize the /information gained/ from running the experiment. We use a similar approach in another project studying social networks and decision-making, where we optimize for the particular /network structure/ that would produce the greatest effect size in our experiment.
+In this work, we ask a number of questions about how to optimally design experiments—in particular, rapidly-deployed experiments run on online experimentation platforms like <a href="https://volunteerscience.com/">VolunteerScience</a> and <a href="http://nodegame.org">nodeGame</a>. For one project, we’ve designed an optimal experimental design protocol that can rapidly search a vast space of possible experiments to find the design that will maximize the information gained from running the experiment. We use a similar approach in another project studying social networks and decision-making, where we optimize for the particular network structure that would produce the greatest effect size in our experiment.
 </div>
 
     </section>
@@ -140,11 +175,6 @@ In this work, we ask a number of questions about how to optimally design experim
 </div>
     </div>
 
-    
-      <div class="search-content">
-        <div class="search-content__inner-wrap"><input type="text" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-    <div id="results" class="results"></div></div>
-      </div>
     
 
     <div class="page__footer">
@@ -167,10 +197,6 @@ In this work, we ask a number of questions about how to optimally design experim
 
 
 
-
-<script src="/assets/js/lunr/lunr.min.js"></script>
-<script src="/assets/js/lunr/lunr-store.js"></script>
-<script src="/assets/js/lunr/lunr-en.js"></script>
 
 
 

@@ -8,7 +8,7 @@ classes: wide
 
 ## Social Influence and Information Diffusion in Networks
 <div class="clearfix">
-<img class="align-right" src="assets/images/diffusion_networks.png" width="300">
+<img class="align-right" src="assets/images/diffusion_networks.png" width="420">
 In most areas of human activity, from science
 to business, we expect performance to
 uniquely determine access to resources and

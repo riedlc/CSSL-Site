@@ -99,34 +99,10 @@ title: ""
 
 
 ## Lab Alumni
-<br>
-### Sam Fraiberger
-<div class="author__avatar">
-<figure class="align-left">
-<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd74290517_sam_picture%20(1).jpg" width="200">
-</figure>
-</div>
-
-### Praveen Ningappa
-<div class="author__avatar">
-<figure class="align-left">
-<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429039f_Photo-Praveen.png" width="200">
-</figure>
-</div>
-
-### Jake Moody
-<div class="author__avatar">
-<figure class="align-left">
-<img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd7429055d_jake.jpeg" width="200">
-</figure></div>
-
-### Christina Sirabella
-<div class="author__avatar">
-<figure class="align-left"><img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742904d7_website-christina-sirabella.jpg" width="200">
-</figure></div>
-
-### Tina Lee
-<div class="author__avatar">
-<figure class="align-left"><img class="align-left" src="https://uploads-ssl.webflow.com/58920a954e6c16dd742902c4/58920a954e6c16dd742903a3_website-tina-lee.jpg" width="200">
-</figure></div>
-
+<ul>
+	<li>Sam Fraiberger (now Data Scientist at the World Bank and Visiting Scholar at NYU Computer Science Department)</li>
+	<li>Praveen Ningappa</li>
+	<li>Jake Moody</li>
+	<li>Christina Sirabella</li>
+	<li>Tina Lee</li>
+</ul>

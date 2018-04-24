@@ -22,7 +22,7 @@ name                     : "Christoph Riedl"
 description              : "Collaborative Social Systems Lab at the Network Science Institute."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : ewenw/CSSL-Site
+repository               : riedlc/CSSL-Site
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ author:
   gitlab           :
   google_plus      : "https://scholar.google.com/citations?hl=en&user=9yFBqIgAAAAJ"
   twitter          : "https://twitter.com/criedl"
-  cv               : "assets/files/riedlCV.pdf"
+  cv               : "assets/files/ChristophRiedl_CV_2018-04-18-public.pdf"
 
 # Reading Files
 include:

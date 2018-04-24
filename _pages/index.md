@@ -5,14 +5,16 @@ permalink: /
 title: ""
 header:
   overlay_image: /assets/images/header.png
-  overlay_filter: rgba(0, 0, 50, 0)
+  overlay_filter: rgba(0, 0, 0, 0)
 ---
 
-**Christoph Riedl** is the Joseph G. Riesman Research assistant professor for Information Systems at the [D'Amore-McKim School of Business](http://damore-mckim.northeastern.edu/) at [Northeastern University](http://www.northeastern.edu/). He hold a joint appointment with the [College of Computer & Information Science](http://www.ccs.neu.edu/) and is a core faculty at the [Network Science Institute](http://www.northeastern.edu/networkscience/). He is a fellow at the [Institute for Quantitative Social Science](http://www.iq.harvard.edu/) (IQSS) at [Harvard University](http://www.harvard.edu/). 
+**Christoph Riedl** is the Joseph G. Riesman Research assistant professor for Information Systems at the [D'Amore-McKim School of Business](http://damore-mckim.northeastern.edu/) at [Northeastern University](http://www.northeastern.edu/). He hold a joint appointment with the [College of Computer & Information Science](http://www.ccs.neu.edu/) and is a core faculty at the [Network Science Institute](http://www.northeastern.edu/networkscience/). He is a fellow at the [Institute for Quantitative Social Science](http://www.iq.harvard.edu/) (IQSS) at [Harvard University](http://www.harvard.edu/). He is recipient of a Young Investigator Award (YIP) from Army Research Office (ARO) for his work on social networks in collaborative decision-making. Before joining Northeastern University he was a post-doctoral fellow at Harvard Business School and IQSS. He received a PhD in Information Systems from Technische Universität München (TUM), Germany in 2011, a MSc in Information Systems in 2007, and a BSc in Computer Science in 2006. His work has been funded by NSF and published in leading journals including <i>Organization Science, Management Science, Information Systems Research, Academy of Management Discoveries,</i> and <i>Journal of the Royal Society Interface</i>.
 
-His research interests are in business analytics, data science, and computational social science which he applies to substantive research questions on [group-decision making](https://christophriedl.net/papers-and-projects/team-formation/), [network science](https://christophriedl.net/papers-and-projects/social-networks/), and [social media](https://christophriedl.net/papers-and-projects/movie-ratings/ "Movie Ratings"). He applies and develops novel computational approaches and machine learning to analyze (experimental) field data in order to study the design of contests, crowd sourcing, and collective intelligence mechanisms. For example, he investigates various aspects of [team formation](https://christophriedl.net/papers-and-projects/team-formation/ "Team Formation") and team work in competitions for creative workers.
+His research interests are to understand how how social and economic networks shape collaboration and decision-making on the individual, group, and community level. He is known for his scholarship on how crowdsourcing and "wisdom of the crowd" mechanisms can be designed and managed to achieve innovative outcomes. His work has focused on the open problem of how to design and manage teams, and to harness the wisdom of the crowd and advance the undestanding of how social influence and information diffusion in networks shape outcomes on a global scale.
 
-Christoph Riedl teaches courses on Business Analytics, Applied Machine Learning, and Information Systems at [D'Amore-McKim School of Business](http://damore-mckim.northeastern.edu/) and the [College of Computer & Information Science](http://www.ccs.neu.edu/) at [Northeastern University](http://www.northeastern.edu/). He is also actively involved in the [Network Science PhD Program](http://www.northeastern.edu/networkscience/).
+He uses computational social science methods including large-scale (digital) experiments, computer simulation (agent-based models), digital trace data, and ideas from behavioral economics and game theory. 
+
+Christoph Riedl teaches courses on Business Analytics, Network Economics, and Information Systems.
 
 ### About the Lab
 ----------------------------
@@ -21,40 +23,42 @@ The Collaborative Social Systems Lab, directed by Christoph Riedl, explores coll
 ### Latest Publications
 ----------------------------
 <div class="clearfix">
-<img class="align-right" src="assets/images/Icon-learning-from-mixed-signals.png" width="165">
-<span style="font-size:22px">Learning from Mixed Signals in Online
-Innovation Communities</span>
-<p style="font-size:18px">
-Organization Science, in press.
-</p>
+	<img class="align-right" src="assets/images/paper-mixed-signals.png" width="125">
+	<span style="font-size:22px">Learning from Mixed Signals in Online Innovation Communities</span>
+	<p style="font-size:18px">
+		<i><b>Organization Science</b></i>, in press.
+	</p>
 </div>
 
 
 <div class="clearfix">
-<img class="align-right" src="assets/images/social.jpg" width="165">
-<span style="font-size:22px">And Now for Something Completely Different: Visual Novelty in an Online Network of Designers
-</span>
-<p style="font-size:18px">
-Proceedings of 10th ACM Conference on Web Science (WebSci’18), Amsterdam, 27-30 May 2018, accepted for presentation.
-</p>
+<a href="https://arxiv.org/abs/1804.05705" target="_blank">
+	<img class="align-right" src="assets/images/paper_social.jpg" width="125">
+	<span style="font-size:22px">And Now for Something Completely Different: Visual Novelty in an Online Network of Designers</span>
+	<p style="font-size:18px">
+		<i>Proceedings of 10th ACM Conference on Web Science (WebSci’18)</i>.
+	</p>
+</a>
 </div>
 
 
 <div class="clearfix">
-<img class="align-right" src="assets/images/conflict.png" width="175">
-<span style="font-size:22px">Conflict and Convention in Dynamic Networks
-</span>
-<p style="font-size:18px">
-Journal of the Royal Society Interface, 15(140), 20170835, 2018
-</p>
+<a href="http://www.ccs.neu.edu/home/criedl/conflict-convention/" target="_blank">
+	<img class="align-right" src="assets/images/paper_conflict.png" width="125">
+	<span style="font-size:22px">Conflict and Convention in Dynamic Networks</span>
+	<p style="font-size:18px">
+		<b><i>Journal of the Royal Society Interface</i></b>, 15(140), 20170835, 2018.
+	</p>
+</a>
 </div>
 
 
 <div class="clearfix">
-<img class="align-right" src="assets/images/on_demand.png" width="165">
-<span style="font-size:22px">Product diffusion through on-demand information-seeking behaviour
-</span>
-<p style="font-size:18px">
-Journal of the Royal Society Interface, 15(139), 20170751, 2018
-</p>
+<a href="http://rsif.royalsocietypublishing.org/content/15/139/20170751" target="_blank">
+	<img class="align-right" src="assets/images/paper_on_demand.png" width="125">
+	<span style="font-size:22px">Product diffusion through on-demand information-seeking behaviour</span>
+	<p style="font-size:18px">
+		<b><i>Journal of the Royal Society Interface</i></b>, 15(139), 20170751, 2018.
+	</p>
+</a>
 </div>

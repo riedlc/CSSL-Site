@@ -17,8 +17,8 @@ classes: wide
 <p>Key Publications:</p>
 <ul>
 	<li>"Learning from Mixed Signals in Online Innovation Communities" (<i>Organization Science</i>)</li>
-	<li><a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2015.2285" target="_blank">"Looking Across and Looking Beyond the Knowledge Frontier" (<i>Management Science</i>)</a></li>
-	<li><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2015.0605" target="_blank">"Rate or Trade" (<i>Information Systems Research</i>)</a></li>
+	<li><a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2015.2285" target="_blank">"Looking Across and Looking Beyond the Knowledge Frontier"</a> (<i>Management Science</i>)</li>
+	<li><a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2015.0605" target="_blank">"Rate or Trade"</a> (<i>Information Systems Research</i>)</li>
 </ul>
 </div>
 
@@ -30,7 +30,7 @@ classes: wide
 <p>Funding: DARPA, Northeastern Seed Grant (Tier 1)</p>
 <p>Key Publications:</p>
 <ul>
-	<li><a href="https://ssrn.com/abstract=2384068" target="_blank">"Teams vs. Crowds" (<i>Academy of Management Discoveries</i>)</a></li>
+	<li><a href="https://ssrn.com/abstract=2384068" target="_blank">"Teams vs. Crowds"</a> (<i>Academy of Management Discoveries</i>)</li>
 </ul>
 </div>
 
@@ -66,8 +66,8 @@ and I propose a new model of network formation.</p>
 <p>Funding: National Science Foundation, Army Research Office, Office of Naval Research</p>
 <p>Key Publications:</p>
 <ul>
-	<li><a href="http://www.ccs.neu.edu/home/criedl/conflict-convention/" target="_blank">"Conflict and Convention in Dynamic Networks" (<i>Journal of the Royal Society Interface</i>)</a></li>
-	<li><a href="http://rsif.royalsocietypublishing.org/content/15/139/20170751" target="_blank">"Product Diffusion Through On-Demand Information-Seeking Behavior” (Journal of the Royal Society Interface</i>)</a></li>
+	<li><a href="http://www.ccs.neu.edu/home/criedl/conflict-convention/" target="_blank">"Conflict and Convention in Dynamic Networks"</a> (<i>Journal of the Royal Society Interface</i>)</li>
+	<li><a href="http://rsif.royalsocietypublishing.org/content/15/139/20170751" target="_blank">"Product Diffusion Through On-Demand Information-Seeking Behavior”</a> (<i>Journal of the Royal Society Interface</i>)</li>
 </ul>
 </div>
 

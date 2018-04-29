@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "People"
-    url: /people
+    url: /people.html
   - title: "Publications"
-    url: /publications
+    url: /publications.html
   - title: "Projects"
-    url: /projects
+    url: /projects.html
   - title: "Jobs"
-    url: /jobs
+    url: /jobs.html
 
   # - title: "Sample Posts"
   #   url: /year-archive/
